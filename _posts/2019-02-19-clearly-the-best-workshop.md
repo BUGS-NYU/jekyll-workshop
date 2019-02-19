@@ -1,8 +1,6 @@
 ---
 title: Jekyll Workshop
-date: 2019-02-19
 layout: post
-permalink: /blog/2019/02/jekyll-workshop
 ---
 This workshop is like literally awesome. Like check it out.
 We’ll be covering how to use Jekyll to quickly build a website on Github Pages.

@@ -26,6 +26,17 @@ markdown: kramdown
 theme: minima
 strict_front_matter: true
 
+collections:
+  classes:
+    output: true
+    permalink: /classes/:year/:title
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:title
+  projects:
+    output: true
+    permalink: /projects/:year/:title
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

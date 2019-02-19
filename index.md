@@ -8,7 +8,7 @@ A spider web, spiderweb, spider's web, or cobweb (from the archaic word coppe, m
 
 ## Blog
 * [January Edits of BUGS Website](/blog/2019/01/january-edits-bugs-site)
-* [Incredible Workshop](/blog/2019/02/jekyll-workshop)
+* [Incredible Workshop](/blog/2019/02/clearly-the-best-workshop)
 * [Style Guide](/blog/2019/02/style-guide-for-bugs-website)
 
 ## Classes

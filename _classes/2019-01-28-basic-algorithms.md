@@ -1,5 +1,4 @@
 ---
-permalink: /classes/2019/basic-algorithms
 ---
 <center>
 

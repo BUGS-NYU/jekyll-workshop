@@ -1,8 +1,6 @@
 ---
 title: January 2019 Edits for Bugs Website
-date: 2019-01-15
 layout: post
-permalink: /blog/2019/01/january-edits-bugs-site
 ---
 This is a summary of the edits that I merged into the BUGS website for the month of
 January. All of the edits were first merged into the `dev` branch, then committed.
