@@ -1,6 +1,7 @@
 ---
 title: BUGS Website
 layout: page
+permalink: /projects/2019/bugs-website
 ---
 **Mentor:** BUGS Eboard  
 This project is entirely virtual and all contributions can be made as pull requests on GitHub. Contact the eboard for questions.

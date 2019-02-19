@@ -7,16 +7,16 @@ layout: home
 A spider web, spiderweb, spider's web, or cobweb (from the archaic word coppe, meaning "spider") is a structure created by a spider out of proteinaceous spider silk extruded from its spinnerets, generally meant to catch its prey.
 
 ## Blog
-* [January Edits of BUGS Website](/blog/january-edits-bugs-site.html)
-* [Incredible Workshop](/blog/clearly-the-best-workshop.html)
-* [Style Guide](/blog/style-guide.html)
+* [January Edits of BUGS Website](/blog/2019/01/january-edits-bugs-site)
+* [Incredible Workshop](/blog/2019/02/jekyll-workshop)
+* [Style Guide](/blog/2019/02/style-guide-for-bugs-website)
 
 ## Classes
-* [Basic Algorithms](/classes/basic-algorithms.html)
-* [Computer Systems Organization](/classes/cso.html)
-* [Linear Algebra](/classes/linear-algebra.html)
-* [Texts and Ideas](/classes/texts-n-ideas.html)
+* [Basic Algorithms](/classes/2019/basic-algorithms)
+* [Computer Systems Organization](/classes/2019/cso)
+* [Linear Algebra](/classes/2019/linear-algebra)
+* [Texts and Ideas](/classes/2019/texts-n-ideas)
 
 ## Projects
-* [BUGS Website](/projects/bugs-website.html)
-* [YACS Language Proposal](/projects/yacs-script.html)
+* [BUGS Website](/projects/2019/bugs-website)
+* [YACS Language Proposal](/projects/2019/yacs-script)

@@ -1,4 +1,5 @@
 ---
+permalink: /classes/2019/linear-algebra
 ---
 <center>
 
