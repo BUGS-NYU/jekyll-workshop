@@ -1,8 +1,8 @@
 ---
+title: Jekyll Workshop
+date: 2019-02-19
 layout: post
 ---
-# Jekyll Workshop
-##### February 19, 2019
 This workshop is like literally awesome. Like check it out.
 We’ll be covering how to use Jekyll to quickly build a website on Github Pages.
 No prior web experience necessary, but please bring your laptops!

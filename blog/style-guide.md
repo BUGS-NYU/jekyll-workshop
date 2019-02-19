@@ -1,8 +1,8 @@
 ---
+title: Style Guide for BUGS Website
+date: 2019-02-03
 layout: post
 ---
-# Style Guide for BUGS Website
-##### February 3, 2019
 To improve readability of code in the future, ensure consistency accross the codebase, and also to make it easier to make PR's for Hacktoberfest, I'm making a style guide for the BUGS website, documenting best practices to keep in mind while writing HTML, SASS, and Liquid for the site, as well as general organizational information to keep in mind.
 
 ### General

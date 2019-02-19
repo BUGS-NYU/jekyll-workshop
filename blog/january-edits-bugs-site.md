@@ -1,8 +1,8 @@
 ---
+title: January 2019 Edits for Bugs Website
+date: 2019-01-15
 layout: post
 ---
-# January 2019 Edits for Bugs Website
-##### January 15, 2019
 This is a summary of the edits that I merged into the BUGS website for the month of
 January. All of the edits were first merged into the `dev` branch, then committed.
 PR can be found at https://github.com/BUGS-NYU/bugs-nyu.github.io/pull/96 and detailed

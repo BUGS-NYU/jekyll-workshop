@@ -1,9 +1,9 @@
 ---
+title: General Proposal for Course Prerequisites Language
 layout: page
 ---
 <style> pre { padding: 10px; background: black; } code span.c, code span.c1 { color: #828997; } code span.c:hover, code span.c1:hover { color: auto; } code span.nt, code span.n, code span.p, code span.o { color: #ABB2BF; } code span.nt:hover, code span.n:hover, code span.p:hover, code span.o:hover { color: auto; } code span.na, code span.bp, code span.mi { color: #D19A66; } code span.na:hover, code span.bp:hover, code span.mi:hover { color: auto; } code span.s { color: #98C379; } code span.s:hover { color: auto; } code span.nf { color: #61AFEF; } code span.nf:hover { color: auto; } code span.k, code span.ow { color: #C678DD; } code span.k:hover, code span.ow:hover { color: auto; } code span.nc { color: #E5C07B; } code span.nc:hover { color: auto; } </style>
 
-# General&nbsp;Proposal&nbsp;for Course&nbsp;Prerequisites Language
 <small>Evan Silverman and Albert Liu</small> <br />
 This document proposes syntax and conventions for specifying the prerequisites of a
 course. In some cases the proposals are general, i.e. "the syntax should have *this*
