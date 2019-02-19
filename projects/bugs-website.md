@@ -1,4 +1,5 @@
 ---
+layout: page
 ---
 ### [BUGS Website][repo-url]
 **Mentor:** BUGS Eboard  

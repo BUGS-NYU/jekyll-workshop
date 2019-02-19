@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 # Style Guide for BUGS Website
 ##### February 3, 2019

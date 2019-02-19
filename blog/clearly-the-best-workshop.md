@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 # Jekyll Workshop
 ##### February 19, 2019

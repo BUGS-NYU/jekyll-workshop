@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 # January 2019 Edits for Bugs Website
 ##### January 15, 2019
