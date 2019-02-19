@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# HEY
+# If you'd like to use Ruby a lot, then you should use 'rbenv' or 'rvm'
+# This solution is a quick and dirty few lines you can add to your .bashrc
+# To give yourself permission to install ruby gems without becoming root
+# (bc `sudo` is bad)
+
+# Used https://stackoverflow.com/questions/2619695/gem-install-permission-problem
+export GEM_HOME=~/.gem
+export GEM_PATH="$GEM_HOME"
+
+# Add the jekyll command line tool to your path
+export PATH="$GEM_HOME/bin:$PATH"
+
+# Jekyll 3.8.4 is the latest version that works with my RubyGems file
+# Yours might be different
+gem install jekyll:3.8.4 bundle
