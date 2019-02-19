@@ -12,11 +12,9 @@ A spider web, spiderweb, spider's web, or cobweb (from the archaic word coppe, m
 * [Style Guide](/blog/2019/02/style-guide-for-bugs-website)
 
 ## Classes
-* [Basic Algorithms](/classes/2019/basic-algorithms)
-* [Computer Systems Organization](/classes/2019/cso)
-* [Linear Algebra](/classes/2019/linear-algebra)
-* [Texts and Ideas](/classes/2019/texts-n-ideas)
+{% for class in site.classes %}
+* [{{ class.title }}]({{ class.url }}){% endfor %}
 
 ## Projects
-* [BUGS Website](/projects/2019/bugs-website)
-* [YACS Language Proposal](/projects/2019/yacs-script)
+{% for project in site.projects %}
+* [{{ project.title }}]({{ project.url }}){% endfor %}

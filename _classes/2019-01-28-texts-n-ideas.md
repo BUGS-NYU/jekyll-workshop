@@ -1,8 +1,9 @@
 ---
+title: Texts and Ideas
 ---
 <center>
 
-<h1> Texts and Ideas </h1>
+<h1> {{ page.title }} </h1>
 
 <h1> Spring 2019 — CSCI-UA.0310-005 </h1>
 
