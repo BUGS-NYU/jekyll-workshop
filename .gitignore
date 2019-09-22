@@ -1,6 +1,3 @@
-#ignore debug files
-debug*
-
 # ignore Jekyll-generated files
 _site/
 .sass-cache/
